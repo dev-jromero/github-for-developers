@@ -1,5 +1,11 @@
-body{
-    margin:0;
-    padding:0;
-    background-color:red;
+body {
+    margin: 0;
+    padding: 0;
+    background-color: red;
+}
+
+h1 {
+    font-size: 30px;
+    color: red;
+    text-align: center;
 }
